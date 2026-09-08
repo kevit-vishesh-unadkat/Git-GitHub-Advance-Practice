@@ -1,4 +1,5 @@
 APP_NAME = "ShopSphere"
-VERSION = "1.1"
+VERSION = "2.0"
 ENVIRONMENT = "development"
 PAYMENT_ENABLED = True
+DATABASE = "shopsphere_db"
