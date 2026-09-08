@@ -6,6 +6,7 @@ def start_application():
     print("Application environment: development")
     print("Product module enabled")
     print("Authentication module enabled")
+    print("Order module enabled")
 
 
 start_application()
