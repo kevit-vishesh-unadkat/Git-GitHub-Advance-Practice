@@ -1,2 +1,4 @@
 APP_NAME = "ShopSphere"
-VERSION = "1.0"
+VERSION = "1.1"
+ENVIRONMENT = "development"
+PAYMENT_ENABLED = True
