@@ -8,3 +8,7 @@ def add_category(name):
 
     categories.append(category)
     return category
+
+
+def list_categories():
+    return categories
